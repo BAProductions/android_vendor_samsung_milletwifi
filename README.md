@@ -1,6 +1,6 @@
 # Tab 4 Light Project/Rom
 
-**Vendor blob repo for Samsung Galaxy Tab 4 10.1 milletwifi (SM-T330 & SM-T330NU)**
+**Vendor repo for Samsung Galaxy Tab 4 10.1 milletwifi (SM-T330 & SM-T330NU)**
 
 |Code Name|Model Number|ScreenSize|Colors|
 |--|--|--|--|
